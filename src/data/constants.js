@@ -129,7 +129,7 @@ export const projects = [
     "id": 4,
     "title": "YumeLearn",
     "description": "YumeLearn is a multi-page Japanese Learning App built using Python and Streamlit. The app is designed to help users master the Japanese language through interactive features, including practice for Hiragana, Katakana, Kanji, listening-based quizzes, and comprehensive test sections. It is integrated with OpenAI for generating personalized learning insights and Google Gemini for advanced language understanding capabilities.",
-    "image": "src\images\YumeLearn.png", // Replace with the actual image URL
+    "image": "https://drive.google.com/file/d/1J84PoAr4Tvu_-XH4Gj9OP5Fbd7hV_Vpn/view?usp=drive_link", // Replace with the actual image URL
     "tags": ["Python", "Streamlit", "Language Learning", "Education", "OpenAI", "Google Gemini"],
     "github": "https://github.com/SurajSanap/YumeLearn",
     "webapp": "https://yumelearn.streamlit.app" // Replace with the actual live link if available
