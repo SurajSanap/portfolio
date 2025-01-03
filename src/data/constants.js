@@ -1,10 +1,10 @@
 export const Bio = {
   name: "Suraj Sanap",
   roles: [
-    "Data Analyst"
+    "AI enthusiast"
   ],
   description:
-    "I have experience as a Data Analyst, where I have worked on data analysis and problem-solving using tools like Python, SQL, and Java. My experience includes participating in the Google AI Hackathon 2024 and contributing to open-source projects, demonstrating my ability to apply technical skills to real-world challenges. With a solid foundation in Data Structures and Algorithms, I am currently pursuing a Bachelor’s degree in Information Technology (Graduating in 2025), combining academic learning with practical expertise.",
+    "Driven IT student with expertise in Python, SQL, and Java, showcasing strong problem-solving and algorithmic skills. Participant in the Google AI Hackathon 2024 and contributor to open-source projects, blending technical proficiency with practical impact. Currently pursuing a Bachelor’s in Information Technology, graduating in 2025.",
   github: "https://github.com/SurajSanap",
   linkedin: "https://www.linkedin.com/in/surajsanap01/",
   email:"surajsanapcontact@gmail.com"
