@@ -7,7 +7,9 @@ export const Bio = {
     "Driven IT student with expertise in Python, SQL, and Java, showcasing strong problem-solving and algorithmic skills. Participant in the Google AI Hackathon 2024 and contributor to open-source projects, blending technical proficiency with practical impact. Currently pursuing a Bachelor’s in Information Technology, graduating in 2025.",
   github: "https://github.com/SurajSanap",
   linkedin: "https://www.linkedin.com/in/surajsanap01/",
-  email:"surajsanapcontact@gmail.com"
+  email:"surajsanapcontact@gmail.com",
+  resume: "https://drive.google.com/file/d/1yDgV5aXwbuzcYMaUaqMAQ4Z5SP1EGqOp/view?usp=sharing" // Add this
+
 };
 
 export const skills = [
@@ -129,7 +131,7 @@ export const projects = [
     "id": 4,
     "title": "YumeLearn",
     "description": "YumeLearn is a multi-page Japanese Learning App built using Python and Streamlit. The app is designed to help users master the Japanese language through interactive features, including practice for Hiragana, Katakana, Kanji, listening-based quizzes, and comprehensive test sections. It is integrated with OpenAI for generating personalized learning insights and Google Gemini for advanced language understanding capabilities.",
-    "image": "https://drive.google.com/file/d/1J84PoAr4Tvu_-XH4Gj9OP5Fbd7hV_Vpn/view?usp=drive_link", // Replace with the actual image URL
+    "image": "https://private-user-images.githubusercontent.com/101057653/399181785-234528a6-0615-4cb4-908f-b860d99e1f6f.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDExNjA2MzEsIm5iZiI6MTc0MTE2MDMzMSwicGF0aCI6Ii8xMDEwNTc2NTMvMzk5MTgxNzg1LTIzNDUyOGE2LTA2MTUtNGNiNC05MDhmLWI4NjBkOTllMWY2Zi5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMzA1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDMwNVQwNzM4NTFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jNDIxM2I0ZWNlNWNmYzJlZmM1NmU1NjMwMzA0ZmUxYTc1YTk5N2M1ZDQxYTY2YzkyNzc1OWIwY2Y1MWVlOTFiJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.qaNny3C93QVMIWb81xZCg_J60LNj9hpWG7QphWib0Jw", // Replace with the actual image URL
     "tags": ["Python", "Streamlit", "Language Learning", "Education", "OpenAI", "Google Gemini"],
     "github": "https://github.com/SurajSanap/YumeLearn",
     "webapp": "https://yumelearn.streamlit.app" // Replace with the actual live link if available
