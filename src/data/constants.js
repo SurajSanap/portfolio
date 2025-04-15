@@ -70,7 +70,7 @@ export const education = [
     img: "https://bit.ly/4gR3yzj",
     school: "Savitribai Phule Pune University",
     date: "Jul 2021 - Jun 2025",
-    grade: "8.13 CGPA",
+    grade: "8.26 CGPA",
     desc: "Pursuing Bachelor of Engineering in Information Technology.",
     degree: "B.E. in Information Technology",
   },
@@ -131,10 +131,29 @@ export const projects = [
     "id": 4,
     "title": "YumeLearn",
     "description": "YumeLearn is a multi-page Japanese Learning App built using Python and Streamlit. The app is designed to help users master the Japanese language through interactive features, including practice for Hiragana, Katakana, Kanji, listening-based quizzes, and comprehensive test sections. It is integrated with OpenAI for generating personalized learning insights and Google Gemini for advanced language understanding capabilities.",
-    "image": "https://private-user-images.githubusercontent.com/101057653/399181785-234528a6-0615-4cb4-908f-b860d99e1f6f.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDExNjA2MzEsIm5iZiI6MTc0MTE2MDMzMSwicGF0aCI6Ii8xMDEwNTc2NTMvMzk5MTgxNzg1LTIzNDUyOGE2LTA2MTUtNGNiNC05MDhmLWI4NjBkOTllMWY2Zi5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMzA1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDMwNVQwNzM4NTFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jNDIxM2I0ZWNlNWNmYzJlZmM1NmU1NjMwMzA0ZmUxYTc1YTk5N2M1ZDQxYTY2YzkyNzc1OWIwY2Y1MWVlOTFiJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.qaNny3C93QVMIWb81xZCg_J60LNj9hpWG7QphWib0Jw", // Replace with the actual image URL
-    "tags": ["Python", "Streamlit", "Language Learning", "Education", "OpenAI", "Google Gemini"],
+    "image": "https://github.com/user-attachments/assets/234528a6-0615-4cb4-908f-b860d99e1f6f", // Replace with the actual image URL
+    "tags": ["Generative AI","Python", "Streamlit", "Language Learning", "Education", "OpenAI", "Google Gemini"],
     "github": "https://github.com/SurajSanap/YumeLearn",
     "webapp": "https://yumelearn.streamlit.app" // Replace with the actual live link if available
+  },
+  {
+    "id": 5,
+    "title": "Shadow",
+    "description": "A classified, agent-aware RAG system for secure intelligence retrieval. Built for high-stakes environments where information access must be precise, permissioned, and explainable",
+    "image": "https://github.com/user-attachments/assets/53b597aa-d33f-4ab3-a6df-d0a00573e030", // Replace with the actual image URL
+    "tags": ["Python", "Streamlit", "RAG", "LangChain", "sentence-transformers", "scikit-learn"],
+    "github": "https://github.com/SurajSanap/Shadow",
+    "webapp": "https://Shadowproject.streamlit.app" // Replace with the actual live link if available
+  },
+
+  {
+    "id": 6,
+    "title": "IndShield",
+    "description": "IndShield is a web application designed to revolutionize industrial safety protocols by leveraging advanced technologies. It empowers organizations to create a safer and more secure work environment for personnel and equipment.",
+    "image": "https://github.com/user-attachments/assets/d09d7d70-77b0-4f55-8ce5-d7a40ed8ad7b", // Replace with the actual image URL
+    "tags": ["Python", "OpenCV", "YOLOv8", "Mediapipe", "HTML", "CSS"],
+    "github": "https://github.com/SurajSanap/IndShield_Intro",
+    "webapp": "https://github.com/SurajSanap/IndShield_Intro" // Replace with the actual live link if available
   },
   
   
