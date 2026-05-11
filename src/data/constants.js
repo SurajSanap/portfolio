@@ -4,7 +4,7 @@ export const Bio = {
     "AI enthusiast"
   ],
   description:
-    "Driven IT student with expertise in Python, SQL, and Java, showcasing strong problem-solving and algorithmic skills. Participant in the Google AI Hackathon 2024 and contributor to open-source projects, blending technical proficiency with practical impact. Currently pursuing a Bachelor’s in Information Technology, graduating in 2025.",
+    "A Associate Software Engineer at Amdocs with experience in Python, Java, machine learning, and backend development. Has worked on projects involving Flask, FastAPI, LangChain, Scikit-learn, and data-driven applications. Previously interned as a Data Analyst at 360iResearch, developing ETL pipelines, APIs, and dashboards, and also contributed to open-source projects through GirlScript Summer of Code. Focused on building scalable applications, APIs, and data solutions while continuously improving technical skills.",
   github: "https://github.com/SurajSanap",
   linkedin: "https://www.linkedin.com/in/surajsanap01/",
   email:"surajsanapcontact@gmail.com",
