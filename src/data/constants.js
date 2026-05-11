@@ -47,13 +47,43 @@ export const skills = [
 ];
 
 export const experiences = [
-  {
+      {
     id: 0,
-    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz1_6NfSgkPKvKAbRNA3X7WLwPaQYf6auLmmG9ihFImw&s",
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrq-QHwHkS8-0KPu2VOTZFXGCtZ2Vt7XFJiQ&s",
+    role: "Associate Software Engineer",
+    company: "Amdocs, Pune, India",
+    date: "July 2025 - Present",
+    desc: [
+      "Developed a full-stack web application using Java, Spring Boot, Angular, and MySQL, focusing on scalable backend services and maintainable architecture.",
+
+      "Designed and implemented RESTful APIs with optimized database schemas, improving application performance and efficient data retrieval.",
+
+      "Contributed to enterprise projects for clients such as AT&T, supporting timely delivery and production workflows.",
+
+      "Created and tested TWS (Tivoli Workload Scheduler) job scripts and assisted in workflow deployment."
+    ],
+    skills: [
+      "Java",
+      "Angular",
+      "Spring Boot",
+      "MySQL",
+      "Snowflake"
+    ]
+  },
+  
+  {
+    id: 1,
+    img: "https://media.licdn.com/dms/image/v2/D4D0BAQEO68g3unelQQ/company-logo_200_200/B4DZ2bQlpxG8AI-/0/1776426310860/360iresearch_logo?e=2147483647&v=beta&t=S6vY-WIcQZ2VrYJwneCIILHGXWxn9W5jjvkDEhmst7w",
     role: "Data Analyst Intern",
     company: "360iResearch, Pune, India",
     date: "Sep 2023 - Feb 2024",
-    desc:"Developed a market research tool using Python, ETL workflows, and time series analysis, automating decision-making and enhancing forecasting accuracy by 84%. Collaborated in a Scrum team within an Agile environment.",
+    desc: [
+      "Developed a market research tool using Python, ETL workflows, and time series analysis.",
+
+      "Automated decision-making processes and improved forecasting accuracy by 84%.",
+
+      "Collaborated within a Scrum team in an Agile development environment."
+    ],
     skills: [
       "Python",
       "ETL workflows",
