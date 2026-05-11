@@ -8,7 +8,7 @@ export const Bio = {
   github: "https://github.com/SurajSanap",
   linkedin: "https://www.linkedin.com/in/surajsanap01/",
   email:"surajsanapcontact@gmail.com",
-  resume: "https://drive.google.com/file/d/1yDgV5aXwbuzcYMaUaqMAQ4Z5SP1EGqOp/view?usp=sharing" // Add this
+  resume: "https://drive.google.com/file/d/1wOOYbrXkukvjb1Wx8_-rdOtzleP8p2Pf/view?usp=sharing" // Add this
 
 };
 
